@@ -3,5 +3,6 @@
     <pages>
         <page name='ArrayProblem1'/>
         <page name='XORProblem'/>
+        <page name='ReverseObject'/>
     </pages>
 </playground>
